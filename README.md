@@ -4,15 +4,21 @@
   Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <a href="https://t.me/web_creator_roman">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>  
+   </a>  
+    <p align='center'>
+  📫 Cвязаться со мной: <a href='mailto:karakoom@ya.ru'>karakoom@ya.ru</a>
+  </p>
 </div>
 
 ---  
 ### :man_technologist: Обо мне :
 
 :telescope: Fullstack web-разработчик.  
+:floppy_disk: Основное направление - это небольшие SPA приложения.  
 :moneybag: Имею опыт коммерческой разработки.  
 :pencil2: Работаю с онлайн-сервисом для разработки интерфейсов Figma.  
-
 
 ---
 ### :hammer_and_wrench: Технологии и библиотеки :
